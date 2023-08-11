@@ -6,7 +6,6 @@ This project involves creating an interactive sales analysis dashboard using Mic
 The dashboard is built using Microsoft Excel, utilizing its powerful data manipulation and visualization capabilities. It presents data in a visually appealing and easy-to-understand format, allowing users to quickly grasp the current sales situation and identify areas that require attention.
 
 
-
 ## Features
 
 - **Sales Trends:** Visualize trends in sales against orders over time using line charts. This can help in understanding seasonal fluctuations and identifying growth or decline patterns.
@@ -15,6 +14,8 @@ The dashboard is built using Microsoft Excel, utilizing its powerful data manipu
 - **Geographical Insights:** Analyse sales data based on various states of India. Identify regions with the highest sales and tailor marketing efforts accordingly.
 - **Order Status Analysis:** Analyse the status of orders to gain insights into customer behaviour and product performance. This can aid in quality regulation and inventory management.
 - **Top Performing Channels:** Identify the top-performing channels based on order count, as well as explore the performance of different channel categories. This information can help with the process of marketing strategies.
+
+
 ## How to use
 
 1. **Download the Excel File:** Download the provided Excel file named "StyleHub Store Annual Report 2022.xlsx" from the repository.
@@ -22,6 +23,8 @@ The dashboard is built using Microsoft Excel, utilizing its powerful data manipu
 3. **Interactive Filters:** Use the slicers to customize the dashboard's data representation based on your preferences.
 4. **Interact with Visualizations:** Hover over data points on charts to view specific values. Click on various components of the dashboard to drill down into more detailed information.
 5. **Insights:** Switch to the "Insights" tab to access some extracted insights. Also, utilize the information presented in the dashboard to make data-driven decisions related to marketing strategies and overall business performance.
+
+
 ## Acknowledgements
 
  - [Rishabh Mishra - YouTube](https://www.youtube.com/@RishabhMishraOfficial)
@@ -30,4 +33,4 @@ The dashboard is built using Microsoft Excel, utilizing its powerful data manipu
 
 ### Disclaimer
 
-This dashboard is a fictional project created for demonstration purposes only. It is not intended for actual commercial use. The data and screenshots used are placeholders and do not reflect real sales data.
+This dashboard is a fictional project created for demonstration purposes only. It is not intended for actual commercial use. The data used are placeholders and do not reflect real sales data.
