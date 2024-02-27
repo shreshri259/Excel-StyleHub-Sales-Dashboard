@@ -25,11 +25,6 @@ The dashboard is built using Microsoft Excel, utilizing its powerful data manipu
 5. **Insights:** Switch to the "Insights" tab to access some extracted insights. Also, utilize the information presented in the dashboard to make data-driven decisions related to marketing strategies and overall business performance.
 
 
-## Acknowledgements
-
- - [Rishabh Mishra - YouTube](https://www.youtube.com/@RishabhMishraOfficial)
- - [Interactive Dashboard Project in Excel for Beginners](https://www.youtube.com/watch?v=gTK5rNhWJyA)
-
 
 ### Disclaimer
 
